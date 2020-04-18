@@ -6,6 +6,8 @@
 
  :tw-1f4af: 书源：modified By Namo
 
+ :tw-1f4af: 更新日期：2020-04-17
+
 特点：
 
 1、根据自己的喜好整理（(⊙o⊙)…，正常喜好哈），求精不求多！
@@ -22,9 +24,11 @@
 
 ##  :tw-1f4c8: 导入教程
 
-:tw-1f4a7: 复制本书源地址，在阅读app-我的-书源管理-网络导入
+:tw-1f4a7: 复制本书源地址，在阅读app-我的-书源管理-网络导入。
 
+           https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json
 
+:tw-1f4a7: (书源地址固定不变，可根据跟新时间重复导入）
 
 ##  :tw-1f517: 相关导航
 
