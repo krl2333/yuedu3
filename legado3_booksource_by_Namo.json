@@ -150,7 +150,7 @@
     "bookSourceGroup": "🇨🇳Namo",
     "bookSourceName": "搜小说网",
     "bookSourceType": 0,
-    "bookSourceUrl": "https://www.soxs.cc",
+    "bookSourceUrl": "https://www.soxscc.com",
     "bookUrlPattern": "",
     "customOrder": 4,
     "enabled": true,
@@ -206,7 +206,7 @@
       "nextTocUrl": "",
       "updateTime": ""
     },
-    "searchUrl": "https://www.soxs.cc/search.html,{\n  \"method\": \"POST\",\n  \"body\": \"searchtype=all&searchkey={{key}}\"\n}",
+    "searchUrl": "https://www.soxscc.com/search.html,{\n  \"method\": \"POST\",\n  \"body\": \"searchtype=all&searchkey={{key}}\"\n}",
     "weight": 0
   },
   {
