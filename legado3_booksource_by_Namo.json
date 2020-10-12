@@ -125,7 +125,7 @@
       "wordCount": "id.cms_ready_1@text"
     },
     "ruleContent": {
-      "content": "class.box_box@textNodes"
+      "content": "class.box_box@textNodes##百度搜索.*免费阅读。"
     },
     "ruleExplore": {},
     "ruleSearch": {
