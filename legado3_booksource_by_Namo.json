@@ -964,71 +964,7 @@
     "searchUrl": "http://ewenxue.org/search.htm?keyword={{key}}",
     "weight": 0
   },
-  {
-    "bookSourceComment": "",
-    "bookSourceGroup": "🇨🇳Namo",
-    "bookSourceName": "衍 墨 轩",
-    "bookSourceType": 0,
-    "bookSourceUrl": "http://www.ymoxuan.org",
-    "bookUrlPattern": "",
-    "customOrder": 26,
-    "enabled": true,
-    "enabledExplore": false,
-    "exploreUrl": "玄幻::/xuanhuan/\n奇幻::/qihuan/\n修真::/xiuzhen/\n都市::/dushi/\n言情::/yanqing/\n历史::/lishi/\n同人::/tongren/\n武侠::/wuxia/\n科幻::/kehuan/\n游戏::/youxi/\n军事::/junshi/\n竞技::/jingji/\n灵异::/lingyi/\n其他::/qita/",
-    "header": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/6.2.4098.3 Safari/537.36",
-    "lastUpdateTime": 1601042417823,
-    "loginUrl": "",
-    "ruleBookInfo": {
-      "author": "tag.i.0@tag.a.0@text",
-      "coverUrl": "class.cover@tag.img@src",
-      "init": "",
-      "intro": "class.desc@tag.p.0@text",
-      "kind": "tag.i.1@tag.a.0@text",
-      "lastChapter": "",
-      "name": "class.line@tag.hl.0@text",
-      "tocUrl": "class.operate@tag.a.2@href",
-      "wordCount": ""
-    },
-    "ruleContent": {
-      "content": "id.content@textNodes",
-      "nextContentUrl": "",
-      "sourceRegex": "",
-      "webJs": ""
-    },
-    "ruleExplore": {
-      "author": "class.a2@tag.a.0@text",
-      "bookList": "class.lastest@tag.li!0",
-      "bookUrl": "class.n2@tag.a.0@href",
-      "coverUrl": "",
-      "intro": "",
-      "kind": "class.nt@text",
-      "lastChapter": "class.c2@tag.a.0@text",
-      "name": "class.n2@tag.a.0@text",
-      "wordCount": ""
-    },
-    "ruleSearch": {
-      "author": "class.a2@tag.a.0@text",
-      "bookList": "class.lastest@tag.li!0",
-      "bookUrl": "class.n2@tag.a.0@href",
-      "coverUrl": "",
-      "intro": "",
-      "kind": "class.nt@text",
-      "lastChapter": "class.c2@tag.a.0@text",
-      "name": "class.n2@tag.a.0@text",
-      "wordCount": ""
-    },
-    "ruleToc": {
-      "chapterList": "class.info@tag.li",
-      "chapterName": "tag.a@text",
-      "chapterUrl": "tag.a@href",
-      "isVip": "",
-      "nextTocUrl": "",
-      "updateTime": ""
-    },
-    "searchUrl": "http://www.ymoxuan.org/search.htm?keyword={{key}}",
-    "weight": 0
-  },
-  {
+   {
     "bookSourceComment": "",
     "bookSourceGroup": "🇨🇳Namo",
     "bookSourceName": "梧州中文",
