@@ -510,7 +510,7 @@
       "coverUrl": "tag.img.1@src",
       "intro": "class.fw@tag.tr.3@text##【.*】",
       "kind": "class.tc.1@text",
-      "lastChapter": "class.fw@tag.tr.1@tag.a@text",
+      "lastChapter": "class.fw@tag.tr.1@tag.a@text##正文.",
       "name": "class.tname@text",
       "wordCount": "class.tc.2@text"
     },
@@ -527,7 +527,7 @@
       "wordCount": "tag.li.-1@text"
     },
     "ruleToc": {
-      "chapterList": "class.clc!0:1:2:3",
+      "chapterList": "class.clc",
       "chapterName": "tag.a@text",
       "chapterUrl": "tag.a@href"
     },
