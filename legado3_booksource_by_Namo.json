@@ -316,7 +316,7 @@
       "wordCount": "class.s5@text"
     },
     "ruleToc": {
-      "chapterList": "class.novel_list.1@tag.dd",
+      "chapterList": "class.novel_list.1@tag.dd||class.novel_list.0@tag.dd",
       "chapterName": "tag.a@text",
       "chapterUrl": "tag.a@href"
     },
@@ -1027,9 +1027,9 @@
       "wordCount": "class.s5@text"
     },
     "ruleToc": {
-      "chapterList": "class.novel_list.1@dd@a",
-      "chapterName": "text",
-      "chapterUrl": "href"
+      "chapterList": "class.novel_list.1@dd||class.novel_list.0@tag.dd",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
     },
     "searchUrl": "/search.html,{\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}&searchtype=all\"\n}",
     "weight": 0
